@@ -17,5 +17,4 @@ permission dan role untuk laravel menggunakan spatie-permission
 
 <p align="center">
     <img src="https://laravel.com/assets/img/components/logo-laravel.svg"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/BPK_insignia.png">
 </p>
